@@ -531,7 +531,8 @@ DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yandex.st
-DOMAIN-SUFFIX,yandex
+DOMAIN-SUFFIX,yandex.net
+DOMAIN-SUFFIX,nic.yandex
 ## > Yahoo
 DOMAIN-SUFFIX,data.flurry.com
 DOMAIN-SUFFIX,yahoo.co.jp
